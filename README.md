@@ -10,7 +10,7 @@
 
 ---
 
-## 📄 Overview
+##  Overview
 
 This project presents a comprehensive **AI Development Workflow**, from problem definition to deployment. It includes:
 
@@ -20,36 +20,36 @@ This project presents a comprehensive **AI Development Workflow**, from problem 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 The project is organized into four parts:
 
-### Part 1: 🧩 Short Answer Questions
+### Part 1:  Short Answer Questions
 - Focus: Hypothetical SaaS customer churn prediction.
 - Topics covered: Problem definition, data collection, preprocessing, model development, evaluation, deployment.
 
-### Part 2: 🏥 Case Study – Hospital Readmission Prediction
+### Part 2:  Case Study – Hospital Readmission Prediction
 - Objective: Predict 30-day readmission risk using EHR data.
 - Includes: Data strategies, model selection (Logistic Regression), deployment challenges, and ethical compliance.
 
-### Part 3: ⚖️ Critical Thinking
+### Part 3:  Critical Thinking
 - Discusses model bias, interpretability vs. accuracy trade-offs, and limitations of computational resources.
 
-### Part 4: 🔄 Reflection & Workflow Diagram
+### Part 4:  Reflection & Workflow Diagram
 - Challenges encountered and proposed solutions.
 - A visual diagram of the AI development workflow stages.
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
-### 📉 SaaS Customer Churn Prediction
+###  SaaS Customer Churn Prediction
 - **Goal**: Reduce monthly churn rate by 25% (e.g., from 4% to 3%).
 - **Model**: Gradient Boosting (e.g., XGBoost, LightGBM) for performance and feature insights.
 - **Data Sources**: User activity logs, subscription and billing data.
 - **Challenges**: Historical bias, concept drift.
 
-### 🏥 Hospital Readmission Risk Prediction
+###  Hospital Readmission Risk Prediction
 - **Goal**: Improve patient outcomes, reduce costs, and optimize resources.
 - **Model**: Logistic Regression for clinical interpretability.
 - **Data**: EHR, demographics, discharge info.
@@ -58,7 +58,7 @@ The project is organized into four parts:
 
 ---
 
-## ⚙️ Workflow Stages
+##  Workflow Stages
 
 ```mermaid
 graph TD;
